@@ -1,0 +1,11 @@
+.header  {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+ .grid {
+     display: grid;
+     gap: 15px;
+     grid-template-columns: 1fr 1fr 1fr;
+     margin-top: 20px;
+ }
